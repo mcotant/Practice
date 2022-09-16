@@ -35,20 +35,37 @@ ul{
 
 li{
     list-style: none;
-    padding: 16px;  
+    padding: 24px; 
+}
+
+.number{
+    color: #f0f0f1;
+    font-weight: 700;
+    
 }
 
 .button{
-    color: red;
+    border: none;
+    background-color: #333333;
+    height: 36px;
+    padding: 0 16px;
+    margin: 8px;
+    color: #f0f0f1;
+    vertical-align: baseline;
+    border-radius: 200px;
+    font-weight: 700;
+    
 }
 
 
 a{
     color: #f0f0f1;
     font-size: 14px;
-    font-weight: 400;
+    font-weight: 700;
     text-decoration: none;
 }
+
+
 
 
 
