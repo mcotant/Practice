@@ -24,7 +24,8 @@ nav{
 }
 
 ul{
-    display: inline-flex;
+    display: flex;
+    justify-content: space-between;
 }
 
 li{
@@ -40,7 +41,7 @@ a{
     font-weight: 400;
     text-decoration: none;
 }
-button{
+.button{
     border: none;
     background-color: #333333;
     height: 36px;
@@ -49,8 +50,5 @@ button{
     color: #f0f0f1;
     vertical-align: baseline;
     border-radius: 200px;
-    ;
-    
-
 }
 
